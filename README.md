@@ -4,9 +4,8 @@ I'm Alfian Rafa, a 16-year-old student at SMK Negeri 1 Jenangan. I'm passionate 
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alfianRapa&theme=chartreuse_dark)<br>
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alfianRapa&theme=chartreuse_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alfianRapa&theme=chartreuse_dark)
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alfianRapa&theme=chartreuse_dark)
 ### 🛠️ languages And Tools
 
 <a href="https://es.wikipedia.org/wiki/HTML5//" target="_blank"><img src="https://svgl.app/library/html5.svg" alt="Html" width="40" height="40"/></a>
