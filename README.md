@@ -1,6 +1,4 @@
-
-I'm Alfian Rafa, a 16-year-old student at SMK Negeri 1 Jenangan. I'm passionate about enjoy reading novels and manhwa
-
+![Header Banner](./github.png)
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alfianRapa&theme=chartreuse_dark)<br>
